@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4359dcae-a8fe-46c5-8710-476d72c8e927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExpenseTrackerSQL.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAOs/MySQLDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAOs/MySQLDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DTOs/Expense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DTOs/Expense.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DTOs/Income.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DTOs/Income.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAOs/ExpenseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAOs/ExpenseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAOs/ExpenseDaoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAOs/ExpenseDaoInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExpenseTracker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739353042344</updated>
-      <workItem from="1739353043462" duration="3651000" />
+      <workItem from="1739353043462" duration="5326000" />
     </task>
     <servers />
   </component>
